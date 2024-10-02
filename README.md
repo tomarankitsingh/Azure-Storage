@@ -84,15 +84,15 @@ The project focuses on managing files within an Azure Storage Account, where spe
 ### Step 2: Access and Download the Letter
 
 1. **Add Account Using Blob Service SAS URL:** ![image](https://github.com/user-attachments/assets/176695d0-0c60-4440-99bb-5685f541a5f6)
-1. Click `Add Account` or `Attach to a resource`.
-2. Select `Storage Account or Service`.
-3. Select `Shared Access Signature (URL) SAS`.
-4. Paste the `SAS URL` provided by the admin in the **service URL**.
-5. Click `Next` and follow the prompts to connect.
+   - Click `Add Account` or `Attach to a resource`.
+   - Select `Storage Account or Service`.
+   - Select `Shared Access Signature (URL) SAS`.
+   - Paste the `SAS URL` provided by the admin in the **service URL**.
+   - Click `Next` and follow the prompts to connect.
 
 2. **Download the Internship Letter:** ![image](https://github.com/user-attachments/assets/ca72b1f0-76f3-48f9-b957-dc410eb57e57)
-1. Navigate to the container.
-2. Find and download the internship letter.
+   - Navigate to the container.
+   - Find and download the internship letter.
 
 ### Step 3: Digitally Sign the Letter
 1. Open the downloaded letter in a PDF editor or digital signature tool.
